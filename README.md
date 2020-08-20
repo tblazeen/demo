@@ -4,5 +4,5 @@ This is a simple readme file
 
 I say make I add jara
 
-E don happen, I don tell am!!
+This is bound to cause trouble
 and fisi
